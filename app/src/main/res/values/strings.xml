@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Github</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="unable_load">Unable to load images</string>
+    <string name="empty_data">No results found for this query</string>
+    <string name="image_placeholder">image placeholder</string>
+    <string name="placeholder">Placeholder</string>
+    <string name="reload">Reload</string>
+    <string name="id">Id</string>
+    <string name="node_id">Node Id</string>
+    <string name="avatar_url">Avatar url</string>
+    <string name="url">Url</string>
+    <string name="html_url">Html Url</string>
+    <string name="subscription_url">Subscription Url</string>
+    <string name="follower_url">Follower Url</string>
+    <string name="following_url">Following Url</string>
+    <string name="_360">360</string>
+    <string name="following">Following</string>
+    <string name="_1205">1205</string>
+    <string name="followers">Followers</string>
+    <string name="_125">125</string>
+    <string name="photos">Photos</string>
+    <string name="image_will_be_rendered_here">image will be rendered here</string>
+    <string name="type">type</string>
+    <string name="username">Username</string>
+</resources>

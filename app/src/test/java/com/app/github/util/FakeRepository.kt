@@ -24,5 +24,4 @@ class FakeRepository(private val forceException : Boolean = false) : DataReposit
             )
         )
     }
-
 }

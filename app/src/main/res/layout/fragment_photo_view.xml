@@ -3,7 +3,6 @@
     xmlns:tools="http://schemas.android.com/tools">
 
     <data>
-
         <variable
             name="data"
             type="com.app.github.models.GithubSearchModel" />
@@ -132,7 +131,7 @@
                             android:layout_width="match_parent"
                             android:layout_height="wrap_content"
                             android:gravity="center"
-                            android:text="score"
+                            android:text="@string/score"
                             android:textSize="20sp"
                             android:textStyle="bold" />
 

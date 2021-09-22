@@ -16,7 +16,6 @@ import kotlinx.coroutines.ExperimentalCoroutinesApi
 import org.junit.Before
 import org.junit.Test
 
-
 @MediumTest
 @ExperimentalCoroutinesApi
 class PhotoViewFragmentText {

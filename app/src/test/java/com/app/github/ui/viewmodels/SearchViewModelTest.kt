@@ -17,7 +17,6 @@ import org.junit.Test
 import org.mockito.Mock
 import org.mockito.MockitoAnnotations
 
-
 @ExperimentalCoroutinesApi
 class SearchViewModelTest {
 
@@ -35,7 +34,6 @@ class SearchViewModelTest {
         MockitoAnnotations.initMocks(this)
         Dispatchers.setMain(testDispatcher)
         viewModel = SearchViewModel(dataRepository)
-
     }
     @After
     fun tearDown() {

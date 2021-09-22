@@ -19,7 +19,7 @@
     <fragment
         android:id="@+id/photoViewFragment"
         android:name="com.app.github.ui.fragments.PhotoViewFragment"
-        android:label="Photo View"
+        android:label="User Detail"
         tools:layout="@layout/fragment_photo_view" >
         <argument
             android:name="photo"

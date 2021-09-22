@@ -23,6 +23,7 @@
     <string name="_125">125</string>
     <string name="photos">Photos</string>
     <string name="image_will_be_rendered_here">image will be rendered here</string>
-    <string name="type">type</string>
+    <string name="type">Type</string>
     <string name="username">Username</string>
+    <string name="score">Score</string>
 </resources>

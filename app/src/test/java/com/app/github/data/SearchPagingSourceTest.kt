@@ -10,7 +10,7 @@ import org.junit.Test
 import java.io.IOException
 import org.junit.Assert.assertEquals
 /*
-//https://medium.com/@mohamed.gamal.elsayed/android-how-to-test-paging-3-pagingsource-433251ade028
+
 class SearchPagingSourceTest {
 
     @get:Rule

@@ -36,7 +36,6 @@ class SearchFragmentTest {
     fun isFragmentDisplayed() {
         launchFragmentInHiltContainer<SearchFragment> {  }
         onView(withId(R.id.searchLayout)).check(matches(isDisplayed()))
-
     }
 
     @Test

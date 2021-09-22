@@ -58,6 +58,7 @@ class SearchAdapter(private val onItemClickListener: OnItemClickListener) : Pagi
 
     interface OnItemClickListener {
         fun onItemClick(photo: GithubSearchModel)
+        
     }
 
     companion object {
